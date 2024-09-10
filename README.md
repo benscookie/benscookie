@@ -1,11 +1,13 @@
-## Hi there 👋
+
   <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenscookie&count_bg=%236E6E6E&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 	
   </div>
-  
+
+## Hi there 👋
+
 <!--
 **benscookie/benscookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
