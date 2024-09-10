@@ -1,9 +1,8 @@
-[![MasterHead]([https://3.bp.blogspot.com/-okeaImTxP6g/TeZPKv7nlKI/AAAAAAAAARo/zdMaRZGrryo/s640/Apri2011+049pwm.jpg][https://github.com/benscookie]
+
 
   <div align=center>
 	  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenscookie&count_bg=%236E6E6E&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenscookie&count_bg=%238E8E8E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 	
   </div>
   
