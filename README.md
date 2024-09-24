@@ -1,10 +1,13 @@
-
-### Hi 👋
-
 ### 	  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenscookie&count_bg=%238E8E8E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-	
+
   </div>
+  
+### Hi 👋
+
+
+![School](https://img.shields.io/badge/소속-컴퓨터정보공학부-blue)
+
 
 ### Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
