@@ -7,7 +7,8 @@
 
 
 
-![School](https://img.shields.io/badge/소속-컴퓨터정보공학부-blue)
+📚 **소프트웨어융합학부**  
+![Student ID](https://img.shields.io/badge/학번-202417103-blue)
 
 
 ### Tech Stack
