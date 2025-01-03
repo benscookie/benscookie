@@ -17,8 +17,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-#### contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehrud864@gmail.com)](mailto:ehrud864@gmail.com)
+/* #### contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehrud864@gmail.com)](mailto:ehrud864@gmail.com) */
 
 <!--
 **benscookie/benscookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
